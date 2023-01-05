@@ -6,7 +6,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -31,6 +31,7 @@ nav li{
     height: 64px;
     border-radius: 5px;
     background: #FD6E0A;
+    padding: 18px 35px;
 }
 .header{
     background-color: #fff8f3;
